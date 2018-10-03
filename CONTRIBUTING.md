@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# 3487 Red Pride Robotics Team
-This repository contains the source code for the Plainfield Red Pride Robotics Team #3487.
-The purpose of the repository is to increase the workflow and efficiency of the programming team.
-
-*Memes are acceptable.*
-
 **DO NOT DIRECTLY COMMIT TO MASTER**
 
 # What to do when.
@@ -49,17 +42,8 @@ Then compare changes of your repo to the main team3487 repo.
 *It is genereally recommended to update your repository after every official release*
 
 ## Superior List
-Schmitt
-Taylor
-Brenden
-Jake
+- Schmitt
+- Taylor
+- Brenden
+- Jake
 (List subject to change)
-=======
-# 3487 Red Pride Robotics Team
-This repository contains the source code for the Plainfield Red Pride Robotics Team #3487.
-The purpose of the repository is to increase the workflow and efficiency of the programming team.
-
-*Memes are acceptable.*
-
-Please read the [contributing file](https://github.com/team3487/3487robotCode/blob/master/CONTRIBUTING.md) for contribution instructions.
->>>>>>> b3f6db75d9451c613c1a8b96a017eb1bad48f0fc
